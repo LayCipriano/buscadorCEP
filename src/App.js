@@ -1,6 +1,6 @@
 import React from 'react';
-import Buscador from './Buscador.js';
 import './styles.css';
+import Buscador from './buscador';
 
 function App() {
   return (
